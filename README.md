@@ -23,6 +23,7 @@ Se trabajó con datos reales extraídos desde una API, donde se abordaron:
 - Niveles de facturación y antigüedad
 
 A través de gráficos, limpieza, normalización y análisis exploratorio, se identificaron los patrones más asociados al abandono del servicio y se ofrecieron recomendaciones para reducir la tendencia de abandono del servicio.
+
 ---
 ## 🔧 Funcionalidades del análisis
 - `Extracción de datos desde API`: Se importa la información de clientes directamente desde una fuente externa en formato JSON.
@@ -35,8 +36,10 @@ A través de gráficos, limpieza, normalización y análisis exploratorio, se id
 - `Recomendaciones accionables`: Se proponen estrategias prácticas para reducir la evasión de clientes con base en los resultados del análisis.
 ---
 ## 📂 Acceso al proyecto
+
 Puedes acceder al código fuente del proyecto directamente en este repositorio.  
 💡 *El análisis fue realizado en Google Colab con archivos `.ipynb` y gráficos generados con Matplotlib y Seaborn.*
+
 ---
 ## 🛠️ Abre y ejecuta el proyecto
 1. Clona el repositorio:
